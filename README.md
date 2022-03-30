@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuğba</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 📫 How to reach me **tb.ustundag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tugbaustundag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugbaustundag" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tb_ustundag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tb_ustundag" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@tugbaustundag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tb_ustundag" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
